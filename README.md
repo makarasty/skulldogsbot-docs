@@ -1,2 +1,2 @@
 # Skulldogsbot-docs
-- [Wiki](https://google.com/)
+- [Wiki](https://github.com/makarasty/skulldogsbot-docs/wiki)
